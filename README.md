@@ -1,2 +1,3 @@
-# .github
-helsinki-sda-group/.github is a ✨special ✨ repository that you can use to add a README.md to your public organization profile, visible to anyone. Make sure it’s public and initialize it with a README in the profile directory to get started.
+## Homepage definer repo
+
+helsinki-sda-group/.github/profile/README.md is a ✨special ✨ file that defines the [GitHub homepage](https://github.com/helsinki-sda-group).
