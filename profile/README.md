@@ -2,7 +2,7 @@
 
 The Spatiotemporal Data Analysis research group does research on machine learning algorithms to solve the challenges related to developing sustainable smart cities, mainly related to navigation and situational awareness.
 
-![SDA_group](https://github.com/helsinki-sda-group/.github/blob/main/profile/SDA_group.jpeg)
+![Exatum](https://github.com/helsinki-sda-group/.github/blob/main/profile/Teams-taustakuva_Kumpulan-kampus-Exactum.png)
 
 <!--
 **Here are some ideas to get you started:**
@@ -14,4 +14,4 @@ The Spatiotemporal Data Analysis research group does research on machine learnin
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-| [Research](https://www.helsinki.fi/en/researchgroups/spatiotemporal-data-analysis/research) | [People](https://www.helsinki.fi/en/researchgroups/spatiotemporal-data-analysis/people) | [Publications](https://www.helsinki.fi/en/researchgroups/spatiotemporal-data-analysis/publications) | 
+| [Research 🔬](https://www.helsinki.fi/en/researchgroups/spatiotemporal-data-analysis/research) | [People 🧑‍🤝‍🧑](https://www.helsinki.fi/en/researchgroups/spatiotemporal-data-analysis/people) | [Publications 📚](https://www.helsinki.fi/en/researchgroups/spatiotemporal-data-analysis/publications) | 
