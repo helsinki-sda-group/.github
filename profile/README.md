@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+The Spatiotemporal Data Analysis research group does research on machine learning algorithms to solve the challenges related to developing sustainable smart cities, mainly related to navigation and situational awareness.
+
 <!--
 
 **Here are some ideas to get you started:**
