@@ -13,3 +13,5 @@ The Spatiotemporal Data Analysis research group does research on machine learnin
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+| [Research](https://www.helsinki.fi/en/researchgroups/spatiotemporal-data-analysis/research) | [People](https://www.helsinki.fi/en/researchgroups/spatiotemporal-data-analysis/people) | [Publications](https://www.helsinki.fi/en/researchgroups/spatiotemporal-data-analysis/publications) | 
