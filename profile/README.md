@@ -4,4 +4,4 @@ The Spatiotemporal Data Analysis research group does research on machine learnin
 
 ![Exatum](https://github.com/helsinki-sda-group/.github/blob/main/profile/Teams-taustakuva_Kumpulan-kampus-Exactum.png)
 
-| [Research 🔬](https://www.helsinki.fi/en/researchgroups/spatiotemporal-data-analysis/research) | [People 🧑‍🤝‍🧑](https://www.helsinki.fi/en/researchgroups/spatiotemporal-data-analysis/people) | [Publications 🕮](https://www.helsinki.fi/en/researchgroups/spatiotemporal-data-analysis/publications) | [Contact 📞](https://www.helsinki.fi/en/researchgroups/spatiotemporal-data-analysis/contact) |
+| [Research 🔬](https://www.helsinki.fi/en/researchgroups/spatiotemporal-data-analysis/research-0) | [People 🧑‍🤝‍🧑](https://www.helsinki.fi/en/researchgroups/spatiotemporal-data-analysis/people) | [Publications 🕮](https://www.helsinki.fi/en/researchgroups/spatiotemporal-data-analysis/publications) | [Contact 📞](https://www.helsinki.fi/en/researchgroups/spatiotemporal-data-analysis/contact) |
