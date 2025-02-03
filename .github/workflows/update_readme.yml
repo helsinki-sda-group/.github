@@ -2,8 +2,7 @@ name: Update Repository Index
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight
-  workflow_dispatch:  # Manual trigger
+    - cron: '0 0 * * Sun'  # Runs every Sunday at midnight
 
 jobs:
   update-repo-index:

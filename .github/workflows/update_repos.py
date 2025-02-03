@@ -4,7 +4,7 @@ from datetime import datetime
 github_org = "helsinki-sda-group"
 
 # Fetch public repositories
-url = f"https://api.github.com/orgs/{github_org}/repos"  # Use /users/{github_org}/repos for a user
+url = f"https://api.github.com/orgs/{github_org}/repos"
 response = requests.get(url)
 repos = response.json()
 # Extract relevant information
