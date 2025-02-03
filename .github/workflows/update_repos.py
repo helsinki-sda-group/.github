@@ -29,7 +29,7 @@ for repo in repo_info:
     # Remove .github repo from the table
     if repo['name'] == ".github":
         continue
-    repo_table += f"| [{repo['name']}](https://github.com/{github_org}/{repo['name']}) | {repo['description']} | {repo['updated_at']} |\n"
+    repo_table += f"| [{repo['name']}](https://github.com/{github_org}/{repo['name']}) | {repo['description']} | {repo['updated_at'].strftime('%d %b %Y')} |\n"
 
 # Read the current README content
 with open(readme_path, "r") as file:
