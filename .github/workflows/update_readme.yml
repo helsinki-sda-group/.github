@@ -23,7 +23,7 @@ jobs:
 
     - name: Run Script
       run: |
-        python update_repos.py
+        python .github/workflows/update_repos.py
 
     - name: Commit Changes
       run: |
