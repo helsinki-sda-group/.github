@@ -16,11 +16,15 @@ For more details visit:
 
 ## Featured Research
 
-### 1. Paper title
-- **Description**: *A short description of the paper.*  
-- 🌟 [Publication/Documentation](#)
-- 📁 [Repository](#)
+### 1. A reinforcement learning-based metaheuristic algorithm for on-demand ride-pooling
+- **Description**: In this paper, we introduce a ride-pooling algorithm in which reinforcement learning (RL) controls the parameters of a centralized dispatching procedure, enabling it to adapt to the dynamic nature of demand and achieve near-optimal results. The experimental evaluation utilizes a custom Gym environment integrated with the SUMO traffic simulation software.
+- 🌟 [Publication](https://ieeexplore.ieee.org/document/10599906)
+- 📁 [Repository](https://github.com/helsinki-sda-group/AIforLEssAuto/tree/main/WP4/rl-ridepooling)
 
+### 2. Simulation-based origin-destination matrix reduction: a case study of Helsinki city area
+- **Description**: In this paper, we introduce an algorithm and a pipeline for traffic demand estimation and calibration. Our approach utilizes country-wide origin-destination (OD) matrices as input to generate city-wide ODs, while traffic counts serve as ground-truth data for calibration. We evaluate our method in the Helsinki city area and provide [SUMO traffic simulator network and route files](https://github.com/helsinki-sda-group/AIforLEssAuto/tree/main/WP4/sumo-hki-cm/demo) for the entire city, along with several smaller regions within it.
+- 🌟 [Publication](https://helda.helsinki.fi/server/api/core/bitstreams/d4c94679-10e3-48e8-aa50-ade838cb2ab6/content)
+- 📁 [Repository](https://github.com/helsinki-sda-group/AIforLEssAuto/tree/main/WP4/sumo-hki-cm)
 ---
 
 
