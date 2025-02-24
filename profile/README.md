@@ -41,6 +41,7 @@ For a full list of our projects, please explore:
 | [SPINS](https://github.com/helsinki-sda-group/SPINS) | Code for the IEEE OJCS paper "Non-Lambertian Surfaces and Their Challenges for Visual SLAM" (2024). | 12 Feb 2025 |
 | [subsystem-discovery](https://github.com/helsinki-sda-group/subsystem-discovery) | Code for the ECAI2024 paper Subsystem Discovery in High-Dimensional Time-Series Using Masked Autoencoders | 05 Feb 2025 |
 | [JASPER-Jamming-signal-propagation-modeler](https://github.com/helsinki-sda-group/JASPER-Jamming-signal-propagation-modeler) | Jamming signal propagation modeler | 07 Jan 2025 |
+| [LSTM-TrafficPrediction]([https://github.com/helsinki-sda-group/JASPER-Jamming-signal-propagation-modeler](https://github.com/helsinki-sda-group/LSTM-TrafficPrediction)) | Code for "Long Short Term Memory Based Traffic Prediction Using Multi-Source Data" published in International Journal of Intelligent Transportation Systems Research (2024)  | 24 Feb 2025 |
 
 ---
 
