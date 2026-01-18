@@ -33,9 +33,9 @@ For a full list of our projects, please explore:
 
 | Repository Name  | Purpose          | Last changes                   |
 |-------------------|------------------|-------------------|
+| [smas-rl-gnn](https://github.com/helsinki-sda-group/smas-rl-gnn) | RL + GNN for task allocation problem (shared library and instance for ride-pooling) | 13 Jan 2026 |
 | [AnomalyDetectionLSTM](https://github.com/helsinki-sda-group/AnomalyDetectionLSTM) | Code for the paper "GNSS Anomaly Detection with Complex-Valued LSTM Networks", presented in ICL-GNSS 2024 | 19 Dec 2025 |
 | [AIforLEssAuto](https://github.com/helsinki-sda-group/AIforLEssAuto) | This repository contains the code of the algorithms and tools developed in Work Package 4 of Artificial Intelligence for Urban Low-Emission Autonomous Traffic (AIForLEssAuto) project | 17 Dec 2025 |
-| [smas-rl-gnn](https://github.com/helsinki-sda-group/smas-rl-gnn) | RL + GNN for task allocation problem (shared library and instance for ride-pooling) | 11 Dec 2025 |
 | [acs](https://github.com/helsinki-sda-group/acs) | Code repository for paper: "Benchmarking Green Supercomputing for Low-Emission AI: Reinforcement Learning as a Use Case" | 03 Dec 2025 |
 | [dev_aiosut_ui](https://github.com/helsinki-sda-group/dev_aiosut_ui) | Development code for the AioSUT interface. | 08 Oct 2025 |
 | [Sensor-Fusion](https://github.com/helsinki-sda-group/Sensor-Fusion) | Code for "A Novel Cross-Attention-Based Pedestrian Visual–Inertial Odometry With Analyses Demonstrating Challenges in Dense Optical Flow" | 16 Jul 2025 |
