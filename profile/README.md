@@ -33,6 +33,7 @@ For a full list of our projects, please explore:
 
 | Repository Name  | Purpose          | Last changes                   |
 |-------------------|------------------|-------------------|
+| [Towards-Jammer-Fingerprinting](https://github.com/helsinki-sda-group/Towards-Jammer-Fingerprinting) | Code for "Towards Jammer Fingerprinting: The Effect of the Environment and the Receiver to a Jammer Classification" published in ICL-GNSS 2024 | 19 Feb 2026 |
 | [smas-rl-gnn](https://github.com/helsinki-sda-group/smas-rl-gnn) | RL + GNN for task allocation problem (shared library and instance for ride-pooling) | 12 Feb 2026 |
 | [AnomalyDetectionLSTM](https://github.com/helsinki-sda-group/AnomalyDetectionLSTM) | Code for the paper "GNSS Anomaly Detection with Complex-Valued LSTM Networks", presented in ICL-GNSS 2024 | 02 Feb 2026 |
 | [AIforLEssAuto](https://github.com/helsinki-sda-group/AIforLEssAuto) | This repository contains the code of the algorithms and tools developed in Work Package 4 of Artificial Intelligence for Urban Low-Emission Autonomous Traffic (AIForLEssAuto) project | 17 Dec 2025 |
@@ -42,7 +43,6 @@ For a full list of our projects, please explore:
 | [MOHRL-ci-Multi-objective-HRL-with-Contextual-Intelligence](https://github.com/helsinki-sda-group/MOHRL-ci-Multi-objective-HRL-with-Contextual-Intelligence) | No description provided. | 19 Jun 2025 |
 | [LSTM-TrafficPrediction](https://github.com/helsinki-sda-group/LSTM-TrafficPrediction) | Code for "Long Short Term Memory Based Traffic Prediction Using Multi-Source Data" published in International Journal of Intelligent Transportation Systems Research (2024) | 24 Mar 2025 |
 | [conciliator](https://github.com/helsinki-sda-group/conciliator) | Code for the TCML paper "Conciliator steering: Imposing user preference in MORL decision-making problems" (2024).  | 25 Feb 2025 |
-| [Towards-Jammer-Fingerprinting](https://github.com/helsinki-sda-group/Towards-Jammer-Fingerprinting) | Code for "Towards Jammer Fingerprinting: The Effect of the Environment and the Receiver to a Jammer Classification" published in ICL-GNSS 2024 | 12 Feb 2025 |
 | [SPINS](https://github.com/helsinki-sda-group/SPINS) | Code for the IEEE OJCS paper "Non-Lambertian Surfaces and Their Challenges for Visual SLAM" (2024). | 12 Feb 2025 |
 | [subsystem-discovery](https://github.com/helsinki-sda-group/subsystem-discovery) | Code for the ECAI2024 paper Subsystem Discovery in High-Dimensional Time-Series Using Masked Autoencoders | 05 Feb 2025 |
 | [JASPER-Jamming-signal-propagation-modeler](https://github.com/helsinki-sda-group/JASPER-Jamming-signal-propagation-modeler) | Jamming signal propagation modeler | 07 Jan 2025 |
