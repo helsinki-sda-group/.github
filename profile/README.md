@@ -34,7 +34,6 @@ For a full list of our projects, please explore:
 | Repository Name  | Purpose          | Last changes                   |
 |-------------------|------------------|-------------------|
 | [acs](https://github.com/helsinki-sda-group/acs) | Code repository for paper: "Benchmarking Green Supercomputing for Low-Emission AI: Reinforcement Learning as a Use Case" | 18 Mar 2026 |
-| [posefm](https://github.com/helsinki-sda-group/posefm) | Code for the paper: "PoseFM: Relative Camera Pose Estimation through Flow Matching" | 17 Mar 2026 |
 | [smas-rl-gnn](https://github.com/helsinki-sda-group/smas-rl-gnn) | RL + GNN for task allocation problem (shared library and instance for ride-pooling) | 13 Mar 2026 |
 | [Towards-Jammer-Fingerprinting](https://github.com/helsinki-sda-group/Towards-Jammer-Fingerprinting) | Code for "Towards Jammer Fingerprinting: The Effect of the Environment and the Receiver to a Jammer Classification" published in ICL-GNSS 2024 | 19 Feb 2026 |
 | [AnomalyDetectionLSTM](https://github.com/helsinki-sda-group/AnomalyDetectionLSTM) | Code for the paper "GNSS Anomaly Detection with Complex-Valued LSTM Networks", presented in ICL-GNSS 2024 | 02 Feb 2026 |
