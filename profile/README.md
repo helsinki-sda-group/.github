@@ -33,7 +33,7 @@ For a full list of our projects, please explore:
 
 | Repository Name  | Purpose          | Last changes                   |
 |-------------------|------------------|-------------------|
-| [posefm](https://github.com/helsinki-sda-group/posefm) | Code for the paper: "PoseFM: Relative Camera Pose Estimation through Flow Matching" | 26 May 2026 |
+| [posefm](https://github.com/helsinki-sda-group/posefm) | Code for the paper: "PoseFM: Relative Camera Pose Estimation through Flow Matching" | 01 Jun 2026 |
 | [dev_aiosut_ui](https://github.com/helsinki-sda-group/dev_aiosut_ui) | Development code for the AioSUT interface. | 07 May 2026 |
 | [smas-rl-gnn](https://github.com/helsinki-sda-group/smas-rl-gnn) | RL + GNN for task allocation problem (shared library and instance for ride-pooling) | 29 Apr 2026 |
 | [AnomalyDetectionLSTM](https://github.com/helsinki-sda-group/AnomalyDetectionLSTM) | Code for the paper "GNSS Anomaly Detection with Complex-Valued LSTM Networks", presented in ICL-GNSS 2024 | 17 Apr 2026 |
