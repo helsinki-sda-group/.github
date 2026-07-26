@@ -33,9 +33,9 @@ For a full list of our projects, please explore:
 
 | Repository Name  | Purpose          | Last changes                   |
 |-------------------|------------------|-------------------|
+| [dev_aiosut_ui](https://github.com/helsinki-sda-group/dev_aiosut_ui) | Development code for the AioSUT interface. | 23 Jul 2026 |
 | [smas-rl-gnn](https://github.com/helsinki-sda-group/smas-rl-gnn) | RL + GNN for task allocation problem (shared library and instance for ride-pooling) | 09 Jun 2026 |
 | [posefm](https://github.com/helsinki-sda-group/posefm) | Code for the paper: "PoseFM: Relative Camera Pose Estimation through Flow Matching" | 01 Jun 2026 |
-| [dev_aiosut_ui](https://github.com/helsinki-sda-group/dev_aiosut_ui) | Development code for the AioSUT interface. | 07 May 2026 |
 | [AnomalyDetectionLSTM](https://github.com/helsinki-sda-group/AnomalyDetectionLSTM) | Code for the paper "GNSS Anomaly Detection with Complex-Valued LSTM Networks", presented in ICL-GNSS 2024 | 17 Apr 2026 |
 | [pfm-dl-rl](https://github.com/helsinki-sda-group/pfm-dl-rl) | Source code for the experiments of the paper: "A performance model for deadline-aware off-policy reinforcement learning with vectorized environments" (IJCNN 2026) | 15 Apr 2026 |
 | [acs](https://github.com/helsinki-sda-group/acs) | Code repository for paper: "Benchmarking Green Supercomputing for Low-Emission AI: Reinforcement Learning as a Use Case" | 18 Mar 2026 |
