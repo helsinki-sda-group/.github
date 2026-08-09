@@ -33,7 +33,9 @@ For a full list of our projects, please explore:
 
 | Repository Name  | Purpose          | Last changes                   |
 |-------------------|------------------|-------------------|
-| [dev_aiosut_ui](https://github.com/helsinki-sda-group/dev_aiosut_ui) | Development code for the AioSUT interface. | 23 Jul 2026 |
+| [NERFs-microscopy](https://github.com/helsinki-sda-group/NERFs-microscopy) | No description provided. | 07 Aug 2026 |
+| [JASPER-Jamming-signal-propagation-modeler](https://github.com/helsinki-sda-group/JASPER-Jamming-signal-propagation-modeler) | Jamming signal propagation modeler | 04 Aug 2026 |
+| [dev_aiosut_ui](https://github.com/helsinki-sda-group/dev_aiosut_ui) | Development code for the AioSUT interface. | 03 Aug 2026 |
 | [smas-rl-gnn](https://github.com/helsinki-sda-group/smas-rl-gnn) | RL + GNN for task allocation problem (shared library and instance for ride-pooling) | 09 Jun 2026 |
 | [posefm](https://github.com/helsinki-sda-group/posefm) | Code for the paper: "PoseFM: Relative Camera Pose Estimation through Flow Matching" | 01 Jun 2026 |
 | [AnomalyDetectionLSTM](https://github.com/helsinki-sda-group/AnomalyDetectionLSTM) | Code for the paper "GNSS Anomaly Detection with Complex-Valued LSTM Networks", presented in ICL-GNSS 2024 | 17 Apr 2026 |
@@ -47,7 +49,6 @@ For a full list of our projects, please explore:
 | [conciliator](https://github.com/helsinki-sda-group/conciliator) | Code for the TCML paper "Conciliator steering: Imposing user preference in MORL decision-making problems" (2024).  | 25 Feb 2025 |
 | [SPINS](https://github.com/helsinki-sda-group/SPINS) | Code for the IEEE OJCS paper "Non-Lambertian Surfaces and Their Challenges for Visual SLAM" (2024). | 12 Feb 2025 |
 | [subsystem-discovery](https://github.com/helsinki-sda-group/subsystem-discovery) | Code for the ECAI2024 paper Subsystem Discovery in High-Dimensional Time-Series Using Masked Autoencoders | 05 Feb 2025 |
-| [JASPER-Jamming-signal-propagation-modeler](https://github.com/helsinki-sda-group/JASPER-Jamming-signal-propagation-modeler) | Jamming signal propagation modeler | 07 Jan 2025 |
 
 ---
 
