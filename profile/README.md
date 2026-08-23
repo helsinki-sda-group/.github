@@ -33,9 +33,9 @@ For a full list of our projects, please explore:
 
 | Repository Name  | Purpose          | Last changes                   |
 |-------------------|------------------|-------------------|
+| [dev_aiosut_ui](https://github.com/helsinki-sda-group/dev_aiosut_ui) | Development code for the AioSUT interface. | 21 Aug 2026 |
 | [NERFs-microscopy](https://github.com/helsinki-sda-group/NERFs-microscopy) | No description provided. | 07 Aug 2026 |
 | [JASPER-Jamming-signal-propagation-modeler](https://github.com/helsinki-sda-group/JASPER-Jamming-signal-propagation-modeler) | Jamming signal propagation modeler | 04 Aug 2026 |
-| [dev_aiosut_ui](https://github.com/helsinki-sda-group/dev_aiosut_ui) | Development code for the AioSUT interface. | 03 Aug 2026 |
 | [smas-rl-gnn](https://github.com/helsinki-sda-group/smas-rl-gnn) | RL + GNN for task allocation problem (shared library and instance for ride-pooling) | 09 Jun 2026 |
 | [posefm](https://github.com/helsinki-sda-group/posefm) | Code for the paper: "PoseFM: Relative Camera Pose Estimation through Flow Matching" | 01 Jun 2026 |
 | [AnomalyDetectionLSTM](https://github.com/helsinki-sda-group/AnomalyDetectionLSTM) | Code for the paper "GNSS Anomaly Detection with Complex-Valued LSTM Networks", presented in ICL-GNSS 2024 | 17 Apr 2026 |
