@@ -33,6 +33,7 @@ For a full list of our projects, please explore:
 
 | Repository Name  | Purpose          | Last changes                   |
 |-------------------|------------------|-------------------|
+| [AIforLEssAuto](https://github.com/helsinki-sda-group/AIforLEssAuto) | This repository contains the code of the algorithms and tools developed in Work Package 4 of Artificial Intelligence for Urban Low-Emission Autonomous Traffic (AIForLEssAuto) project | 01 Nov 2026 |
 | [posefm](https://github.com/helsinki-sda-group/posefm) | Code for the paper: "PoseFM: Relative Camera Pose Estimation through Flow Matching" | 30 Oct 2026 |
 | [smas-rl-gnn](https://github.com/helsinki-sda-group/smas-rl-gnn) | RL + GNN for task allocation problem (shared library and instance for ride-pooling) | 14 Sep 2026 |
 | [dev_aiosut_ui](https://github.com/helsinki-sda-group/dev_aiosut_ui) | Development code for the AioSUT interface. | 21 Aug 2026 |
@@ -42,7 +43,6 @@ For a full list of our projects, please explore:
 | [pfm-dl-rl](https://github.com/helsinki-sda-group/pfm-dl-rl) | Source code for the experiments of the paper: "A performance model for deadline-aware off-policy reinforcement learning with vectorized environments" (IJCNN 2026) | 15 Apr 2026 |
 | [acs](https://github.com/helsinki-sda-group/acs) | Code repository for paper: "Benchmarking Green Supercomputing for Low-Emission AI: Reinforcement Learning as a Use Case" | 18 Mar 2026 |
 | [Towards-Jammer-Fingerprinting](https://github.com/helsinki-sda-group/Towards-Jammer-Fingerprinting) | Code for "Towards Jammer Fingerprinting: The Effect of the Environment and the Receiver to a Jammer Classification" published in ICL-GNSS 2024 | 19 Feb 2026 |
-| [AIforLEssAuto](https://github.com/helsinki-sda-group/AIforLEssAuto) | This repository contains the code of the algorithms and tools developed in Work Package 4 of Artificial Intelligence for Urban Low-Emission Autonomous Traffic (AIForLEssAuto) project | 17 Dec 2025 |
 | [Sensor-Fusion](https://github.com/helsinki-sda-group/Sensor-Fusion) | Code for "A Novel Cross-Attention-Based Pedestrian Visual–Inertial Odometry With Analyses Demonstrating Challenges in Dense Optical Flow" | 16 Jul 2025 |
 | [MOHRL-ci-Multi-objective-HRL-with-Contextual-Intelligence](https://github.com/helsinki-sda-group/MOHRL-ci-Multi-objective-HRL-with-Contextual-Intelligence) | No description provided. | 19 Jun 2025 |
 | [LSTM-TrafficPrediction](https://github.com/helsinki-sda-group/LSTM-TrafficPrediction) | Code for "Long Short Term Memory Based Traffic Prediction Using Multi-Source Data" published in International Journal of Intelligent Transportation Systems Research (2024) | 24 Mar 2025 |
